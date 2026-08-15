@@ -28,6 +28,8 @@ Python • Java • C++ • JavaScript • React • React Native • Next.js �
 
 ## 🚀 Projects
 
+🤖 Ai Agent jarvis
+
 🌿 AquaAyur
 
 🌙 LunaPath AI
