@@ -1,6 +1,6 @@
 
 
-<!# Hi 👋 I'm Ayushi Srivastava
+ <h1>Hi 👋 I'm Ayushi Srivastava</h1>
 
 🚀 First Year B.Tech Data Science Student @ NIAT Pune
 
