@@ -75,8 +75,28 @@
 <div align="center" style="margin-top: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushi-ux-sys&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
 </div>
+### 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ayushi-ux-sys&theme=dracula&no-frame=true&margin-w=10" alt="Ayushi's Trophies" />
+</p>
 
 ---
+### 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ayushi-srivastava-36b580249/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 50%;" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Ayushi-ux-sys" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</p>
 
 ### 🐍 Contribution Activity
 
